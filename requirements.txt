@@ -1,0 +1,5 @@
+json
+streamlit
+pandas
+pycaret
+plotly
