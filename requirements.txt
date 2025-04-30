@@ -1,4 +1,4 @@
 streamlit==1.32.2
-pycaret
+pycaret==2.3.5
 plotly==5.11.0
 pandas==1.5.3
